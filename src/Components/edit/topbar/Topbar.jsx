@@ -1,5 +1,4 @@
 import { Merge, ContentCut, Layers } from '@mui/icons-material';
-import './topbar.css';
 import Button from '../../Button';
 import { Routes, Route, useNavigate, useParams } from 'react-router-dom';
 import styled from 'styled-components';
